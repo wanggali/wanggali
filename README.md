@@ -1,4 +1,8 @@
 ## 👀 Hi！Nice to Meet You!
+
+<img align="right" src="https://raw.githubusercontent.com/mumu-pika/mumu-pika/main/pikachu.gif" width="260">
+
+
 - 🐧 我是咖喱
 - 👨‍💻 致力于成为一名优秀的全栈工程师
 - 🏡 努力学习前后端技术与知识
